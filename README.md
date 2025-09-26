@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdisamad Mahamed
 
 🎯 I'm a passionate Web Developer focused on building clean, responsive websites.  
-🚀 Currently learning **Tailwind CSS**, **JavaScript**.  
+🚀 Currently learning **React.js For Frontend Developers**  
 📂 Check out my work here on GitHub or reach out via email.
 
 ---
